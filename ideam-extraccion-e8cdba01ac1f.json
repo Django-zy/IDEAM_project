@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ideam-extraccion",
+  "private_key_id": "e8cdba01ac1f5977c2327ddea48614063e201612",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrqA1Y+fWikGE0\nhJMgjho1RYL3T181hV5djFyGZnnQkyeRqMJ0GBGVLHcwF+4tgrwJOpV6d5zIYbi2\n8pU0l80sEVUhIzcrmpFUJpe1l3TUTyBtcgAyI4Isf7BFkkxWhW7eWRzgoCrY/ezS\nNjYZglCcCXLtnu9AM4pdW99yNujv5j2KbhxgQ5fBToEOL00gNybNiDb4g5Q+uHVd\nLpVKonATmeThEkr/Tu1qWt+dqv3Q4p9w32ELmpmsfO626/U8wgcTZsTUEgYwSAfH\n3c89guvHybS3CLXOGWgr7KNjKPZg7mzoNUdVSjTRN7MzDpO2Iz0LXjNHmZf45676\nJNgMsSzDAgMBAAECggEANjN2n3kxv/Zx0wjngfiMuvRrcZac3AP0M3qt/nweC6dj\nb6FHYSv2ZVFogwWTXchxgkJ+z3A0T6tXjWDUjwo9rSP96tw5P+nq6JTVA3BC4gTo\nGtbLzAkdQdrBuH4E3677PncJ4L2COgkXvZqDg5N7y4FKSlCMgAumLWtkhyZib9kR\nb23My9Gov/dhYb0oHSAZH1g+ktE40+aXU2BZ+I0f5P+5XJPK1/vTqQZtFMh5lDNZ\nn1tZcGlCnollF1qHOPFZIlSlcOvx309bvIEcpxmrDDOcbcEaMyca8FKQ5Pd6OS8Z\nolwhOJXtnk+2ozkPzzJHnOpqnGcy+7mTUITQ16De5QKBgQDZHqu0miELXPv1jRRt\ngMGYIxFEGFFanU4ldC/a381qK5GHoa+1qVv95vpC9np11egDs6mmscVAghAC19zn\nB2V/uBF0+puAhG4hataEv52YrvhDiEn2SoN+EE6giT2li7kXlCQoit9b26VnGXsD\nK8024jZWoqqlZHP//lhPXAgphwKBgQDKZTl+ClSxi/a8NSV3B0r5HozFsiwbGOh5\nsAFzozyWfcbBldgnBqebSW4uf7HBKDoUg9PCD5+PBPQUW9AirtAtq7XoY8EF6AI3\na4w6abofhHzKrSO7wZkLELGMaq/HHdKCci/kaLvc5X9VRhjpXg2FEQzmHdTob8PN\n1fXl8ZGB5QKBgQCd3wxQ/MVMQuc968BPwxCBc/YpAlmdPsZEu4/UYWk2asmdynY9\n7BBktR+Bs0DmD4xtrKSN/bMErc3Ak38fSaSG0qt22IZbU2/Uwp+K1N1d2NPSHvZQ\nrGuiLW9OkZwOlGMYfvIvvJKecz54kfF9I8tKvf9uzUaxjjI+kI1b3vpcXwKBgCH7\ntReQrH/TPG6FjfDabKA/nOtk6zrxh7dG8jd0ZSvvmnvOqSiEWYgdYD62eiYwlu/y\n4o9nCCd/cWwprlzkdVf1yOloNnTDa/vaNwVn0zSPjlSJlcJk00mkV+t3zmPkggAd\nJCV54HFKp4Kt7mjgvexl3ICW6bTNb1cUYeFmGkRxAoGANzJJFR/247JyBzl36wQd\niXSmWUQVxaJwfbk8B8WE00APkcc3aiNB1ouT1Mx8sKE3ldbFVFrSm+uuEAkVt/gH\nLaG19oTagBI+ykW7K99VALHvXcn5mBLqxuUQiZqWY5MtVxVsdpktxuomeK4SgCoT\n7HgrxpngevmlXNgM87gHkJ0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cargomezmo@ideam-extraccion.iam.gserviceaccount.com",
+  "client_id": "104375966406642323026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cargomezmo%40ideam-extraccion.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
